@@ -22,6 +22,7 @@ Response : Start & End DateTime, Daily Average, Nightly Average, Pressure Averag
 
 ---- Swagger URL -----
 Swagger URL : http://localhost:8888/weather/swagger-ui.html
+We also need to pass the parameter as content type - application/json
 	
 
 ---- Unit and Integration tests ----
